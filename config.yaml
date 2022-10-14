@@ -1,4 +1,4 @@
-baseURL: "http://example.org/" #TODO: update
+baseURL: "https://jocular-sprite-0c8a2d.netlify.app" #TODO: update
 languageCode: "en-us"
 theme: "anubis"
 paginate: 10
