@@ -3,4 +3,4 @@
 	url = https://github.com/Mitrichius/hugo-theme-anubis.git
 [submodule "themes/PaperMod-Robby"]
 	path = themes/PaperMod-Robby
-	url = git@github.com:monerobby/PaperMod-robby.git
+	url = git@github.com:monerobby/hugo-PaperMod
