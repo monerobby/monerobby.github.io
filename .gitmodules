@@ -1,3 +1,6 @@
 [submodule "themes/anubis"]
 	path = themes/anubis
 	url = https://github.com/Mitrichius/hugo-theme-anubis.git
+[submodule "themes/PaperMod-Robby"]
+	path = themes/PaperMod-Robby
+	url = https://github.com/monerobby/PaperMod-robby.git

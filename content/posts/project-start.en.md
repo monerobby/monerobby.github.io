@@ -1,7 +1,6 @@
 ---
 title: "Project Start"
 date: 2022-08-14T20:08:28-07:00
-draft: true
 categories:
   - Empennage
   - Other
