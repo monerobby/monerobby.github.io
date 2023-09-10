@@ -35,6 +35,11 @@ languages:
           title: теги
           url: /tags/
           weight: 0
+        - identifier: search
+          name: поиск
+          title: поиск
+          url: /search/
+          weight: 0
 
 menu:
   main:
@@ -53,20 +58,32 @@ menu:
       title: tags
       url: /tags/
       weight: 0
+    - identifier: search
+      name: search
+      title: search
+      url: /search/
 
 params:
   author: "Robby Weinberg"
   email: robbyj.weinberg@gmail.com
-  description: ""
-  dateFormat: "2006-01-02"
-  paginationSinglePost: true
-  style: auto # light-without-switcher
-  readmore: false
-  readNextPosts: 5
-  disableSummary: false
-  copyCodeButton: true
-  rssAsSocialIcon: true
+  description: "Vans RV-7A Project Build Log by Robby Weinberg"
+  dateFormat: "January 2006"
+  defaultTheme: auto
+  # paginationSinglePost: true
+  # style: auto # light-without-switcher
+  # readmore: false
+  # readNextPosts: 5
+  # disableSummary: false
+  # copyCodeButton: true
+  # rssAsSocialIcon: true
+  # ShowBreadCrumbs: true
 
 taxonomies:
   category: "categories"
   tag: "tags"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
