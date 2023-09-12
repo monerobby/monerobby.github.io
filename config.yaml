@@ -20,9 +20,9 @@ languages:
       author: "Робби Вайнберг"
     menu:
       main:
-        - identifier: about
-          name: about
-          title: about
+        - identifier: обо мне
+          name: обо мне
+          title: обо мне
           url: /about/
           weight: 0
         - identifier: archive
