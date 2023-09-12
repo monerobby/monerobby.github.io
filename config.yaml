@@ -20,7 +20,7 @@ languages:
       author: "Робби Вайнберг"
     menu:
       main:
-        - identifier: обо мне
+        - identifier: about
           name: обо мне
           title: обо мне
           url: /about/
