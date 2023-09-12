@@ -15,7 +15,7 @@ tags:
 
 {{< figure src="IMG_1777.jpeg" caption="Первоначальная сборка задней балки. Здесь уже видно, что центральная шарнирная скоба и подшипник уже заклеплены, и они в конечном итоге будут присоединены к рулевым поверхностям.">}}
 
- Я сделал первуюб серьёзную ошибку когда работал над одной из передних балок.  After trimming the flange, bending, and creating the relief holes, I was sanding the edges and accidentally knocked the surface of the part into the belt sander leaving a large gash. This is an important structural part, and I would need to order a replacement spar from Vans ($22 + shipping).
+ Я сделал первуюб серьёзную ошибку когда работал над одной из передних балок.  После trimming the flange, bending, and creating the relief holes, I was sanding the edges and accidentally knocked the surface of the part into the belt sander leaving a large gash. This is an important structural part, and I would need to order a replacement spar from Vans ($22 + shipping).
 
 {{< figure src="IMG_1958.jpeg" caption="Mistake on one of the front spars of the horizontal stablizer">}}
 
