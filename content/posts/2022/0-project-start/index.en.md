@@ -24,8 +24,6 @@ After taking inventory of the kit, and laying out parts in a room inside, I cont
 
 I ordered a couple of practice projects with the kit. They gave me an opportunity to make mistakes and learn how to use my new tools and construction methods.
 
-< picture of tool box>
-
 Also I took a trip to Airventure to see some flying examples of what I was building and learn as much as I could.
 
 {{< figure src="IMG_1710.jpeg" caption="AirVenture Oshkosh 2022">}} 

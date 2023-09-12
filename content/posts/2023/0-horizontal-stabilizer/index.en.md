@@ -1,6 +1,6 @@
 ---
 title: "Horizontal Stabilizer"
-date: 2022-10-14
+date: 2023-08-14
 categories:
   - Empennage
   - Horizontal Stabilizer
