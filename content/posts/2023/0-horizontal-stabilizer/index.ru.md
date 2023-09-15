@@ -15,59 +15,58 @@ tags:
 
 {{< figure src="IMG_1777.jpeg" caption="Первоначальная сборка задней балки. Здесь уже видно, что центральная шарнирная скоба и подшипник уже заклеплены, и они в конечном итоге будут присоединены к рулевым поверхностям.">}}
 
- Я сделал первуюб серьёзную ошибку когда работал над одной из передних балок.  После trimming the flange, bending, and creating the relief holes, I was sanding the edges and accidentally knocked the surface of the part into the belt sander leaving a large gash. This is an important structural part, and I would need to order a replacement spar from Vans ($22 + shipping).
+Я сделал первуюб серьёзную ошибку когда работал над одной из передних балок. Пока я шлифовал края ча́сти, я случайно ударил поверхность о шлифовальный станок. Эта балка важная структурная часть и мне нужно бw заказать [заменительную балку](https://store.vansaircraft.com/hs-702-front-spar-hs-702.html) у Vans.
 
-{{< figure src="IMG_1958.jpeg" caption="Mistake on one of the front spars of the horizontal stablizer">}}
+{{< figure src="IMG_1958.jpeg" caption="Ошибка на передная балка">}}
 
-Eventually I recieved the replacement part and was able to continue. After finishing preperation and priming of the parts, I began riveting the skeleton.
+Скоро я получил замену и смог продолжить работу. После я подготовил части и красил их с праймером, я начал заклепывать каркас.
 
-{{< figure src="IMG_1963.jpeg" caption="Riveting front spar to rib">}}
+{{< figure src="IMG_1963.jpeg" caption="Заклепывание передней балки к ребру">}}
 
-{{< figure src="IMG_2248.jpeg" caption="Preparing to rivet rear spar to rear spar reinforcement bars">}}
+{{< figure src="IMG_2248.jpeg" caption="Подготовка к заклепыванию задней балки к барам усиления задней балки">}}
 
-{{< figure src="IMG_2249.jpeg" caption="Rear spar after riveting completed">}}
+{{< figure src="IMG_2249.jpeg" caption="закончил заклепку задней балки">}}
 
-{{< figure src="IMG_2251.jpeg" caption="Other side side rear spar after riveting. Here the \"manufactured\" heads of the rivets are visible.">}}
+{{< figure src="IMG_2251.jpeg" caption="Другая сторона задней балки. Здесь видны \"заводые\" заголовки заклепок.">}}
 
-{{< figure src="IMG_2250.jpeg" caption="Close up of riveting of inner hinge bracket to rear spar">}}
+{{< figure src="IMG_2250.jpeg" caption="Макрофотография заклепки внутренней шарнирной скобы к задней балке">}}
 
-At the begining of 2023, Vans released a service bulletin for the RV-7 outboard elevator hinges due to possible cracking in this area. New parts were designed and sent out to me including a nested spar doubler. Luckily because of my slow building speed, I did not need to remove any rivets to install the new parts:
+В начале 2023 года компания Vans выпустила сервисный бюллетень для RV-7 наружных шарниров рулевых из-за возможных трещин в этой области. Новые части были разработаны и отправлены мне, включая спаренный усилитель. К счастью, благодаря моей медленной скорости строительства, мне не потребовалось снимать заклепки для установки новых части.
 
-{{< figure src="IMG_2252.jpeg" caption="Close up of riveting of outboard hinge bracket to rear spar.">}}
+{{< figure src="IMG_2252.jpeg" caption="Макрофотография заклепки наружной шарнирной скобы к задней балке.">}}
 
-{{< figure src="IMG_2253.jpeg" caption="Completed rear spar">}}
+{{< figure src="IMG_2253.jpeg" caption="закончил заднюю балку">}}
 
-Next, I riveted the front spars together with spar doublers and reinforcement angles. The cleco clamps with masking tape were to remind me to not rivet these holes. This is where the horizontal stabilizer will eventually attach to the fuselage.
+Потом, я заклепал передние балки вместе с усилителями балок. Зажимы "Cleco" с маскировочной лентой напоминали мне, что эти отверстия не нужно заклепывать. Это место, где горизонтальный стабилизатор в конечном итоге будет присоединяться к фюзеляжу.
 
-{{< figure src="IMG_2254.jpeg" caption="Riveting front spars together">}}
-{{< figure src="IMG_2256.jpeg" caption="Riveting front spars together">}}
+{{< figure src="IMG_2254.jpeg" caption="Заклепывание передних балок">}}
+{{< figure src="IMG_2256.jpeg" caption="Заклепывание передних балок">}}
 
-The two rivets joining the the inboard forward ribs were particular tricky. Unfortunately I didn't properly set the rivets on the left side and need to remove them. Furthermore, when I removed them, I realized the holes were now slightly oversized. After consulting with Vans support, their recommendation was to use Cherrymax oversize universal head rivets in place of the solid rivets. I picked these up from Aircraft Spruce. I cleaned up the holes to the proper diameter for the Cherrymax oversize rivets and was able to set them without further issue.
+Два заклепки, соединяющие внутренние передние рёбра, оказались особенно сложными. К сожалению, я не правильно закрепил заклепки с левой стороны и должен был их снять. Более того, когда я их снял, я понял, что отверстия теперь немного увеличились в размерах. После консультации с поддержкой от Vans, их рекомендация состояла в использовании заклепок "Cherrymax" с увеличенным размером вместо обычных заклепок. Я купил их в магазине [Aircraft Spruce](https://www.aircraftspruce.com/catalog/hapages/cherrymax4.php?clickkey=295853). Я очистил дырки до правильного диаметра и смог установить их без дополнительных проблем.
 
-{{< figure src="IMG_2386.jpeg" caption="Oversize Cherrymax rivets set to fix my mistake on two nose rib rivets on left side of picture">}}
+{{< figure src="IMG_2386.jpeg" caption="Увеличенные заклепки \"Cherrymax\" были установлены для исправления ошибки с двумя заклепками на носовой рёбра (слева)">}}
 
-Finally, it is time to rivet the skins onto the horizontal stabilizer structure. 
+Наконец, пришло время заклепить обшивку на структуру горизонтального стабилизатора.
 
-{{< figure src="IMG_2342.jpeg" caption="Starting to rivet skins onto structure, starting with the nose rib, as specified in the instructions">}}
+{{< figure src="IMG_2342.jpeg" caption="Начало заклепки обшивки на структуру, начиная с носового ребра, как указано в инструкциях">}}
 
-Next the nose rib was blind riveted to the rest of the completed structure.
+Затем носовое ребро было заклеплено слепыми заклепками к остальной завершенной структуре.
 
-{{< figure src="IMG_2345.jpeg" caption="Nose rib blind rivets inside the skins">}}
+{{< figure src="IMG_2345.jpeg" caption="Слепые заклепки внутри обшивки">}}
 
-The skin was clamped into place and I proceed to rivet the rest of the skin to the structure.
+Обшивка была закреплена в положении, и я продолжил заклепку остальной части обшивки к структуре.
 
-{{< figure src="IMG_2343.jpeg" caption="Skin in place on left side of horizontal stabilizer">}}
+{{< figure src="IMG_2343.jpeg" caption="Обшивка на месте на левой стороне горизонтального стабилизатора">}}
 
-{{< figure src="IMG_2346.jpeg" caption="Top of left skin riveted">}}
-{{< figure src="IMG_2347.jpeg" caption="Close up of skin rivets sitting flush inside skin dimples">}}
+{{< figure src="IMG_2346.jpeg" caption="Верхняя часть левой обшивки заклеплена">}}
+{{< figure src="IMG_2347.jpeg" caption="Макрофотография заклепок обшивки, лежащих ровно внутри углублений обшивки.">}}
 
-The skin was also riveted on the bottom side, and the right skin was riveted too.
+Остальная часть обшивки была также заклепана.
 
-
-{{< figure src="IMG_2384.jpeg" caption="Me riveting the skin">}}
+{{< figure src="IMG_2384.jpeg" caption="Я заклепляю обшивку">}}
 
 <!-- {{< figure src="XXXX.jpeg" caption="Rivets inside skins">}} -->
 
-The only thing that remains is to squeeze rivets on the inboard and outboard ribs, and on the rear spar, which I will do at a later date after my work is inspected by an EAA tech counselor. Once the rear spar is riveted, it becomes difficult to inspect indside the structure.
+Единственное, что остается, это обжать заклепки на внутренних и наружных рёбрах, а также на задней балке, что я сделаю в более поздний срок после того, как моя работа будет проверена консультантом EAA. После заклепки задней балки становится сложнее проверять внутренние структуры.
 
-{{< figure src="IMG_2363.jpeg" caption="Horizontal stabilizer mostly completed">}}
+{{< figure src="IMG_2363.jpeg" caption="Горизонтальный стабилизатор в основном завершен">}}

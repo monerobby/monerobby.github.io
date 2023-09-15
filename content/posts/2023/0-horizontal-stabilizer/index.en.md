@@ -19,19 +19,19 @@ I made my first major mistake when working on one of the front spars. After trim
 
 {{< figure src="IMG_1958.jpeg" caption="Mistake on one of the front spars of the horizontal stablizer">}}
 
-Eventually I recieved the replacement part and was able to continue. After finishing preperation and priming of the parts, I began riveting the skeleton.
+Eventually I recieved the replacement part and was able to continue. After preparing and priming the parts, I began riveting the skeleton.
 
 {{< figure src="IMG_1963.jpeg" caption="Riveting front spar to rib">}}
 
 {{< figure src="IMG_2248.jpeg" caption="Preparing to rivet rear spar to rear spar reinforcement bars">}}
 
-{{< figure src="IMG_2249.jpeg" caption="Rear spar after riveting completed">}}
+{{< figure src="IMG_2249.jpeg" caption="Completed riveting rear spar">}}
 
 {{< figure src="IMG_2251.jpeg" caption="Other side side rear spar after riveting. Here the \"manufactured\" heads of the rivets are visible.">}}
 
 {{< figure src="IMG_2250.jpeg" caption="Close up of riveting of inner hinge bracket to rear spar">}}
 
-At the begining of 2023, Vans released a service bulletin for the RV-7 outboard elevator hinges due to possible cracking in this area. New parts were designed and sent out to me including a nested spar doubler. Luckily because of my slow building speed, I did not need to remove any rivets to install the new parts:
+At the begining of 2023, Vans released a service bulletin for the RV-7 outboard elevator hinges due to possible cracking in this area. New parts were designed and sent out to me including a nested spar doubler. Luckily, because of my slow building speed, I did not need to remove any rivets to install the new parts:
 
 {{< figure src="IMG_2252.jpeg" caption="Close up of riveting of outboard hinge bracket to rear spar.">}}
 
@@ -39,12 +39,12 @@ At the begining of 2023, Vans released a service bulletin for the RV-7 outboard 
 
 Next, I riveted the front spars together with spar doublers and reinforcement angles. The cleco clamps with masking tape were to remind me to not rivet these holes. This is where the horizontal stabilizer will eventually attach to the fuselage.
 
-{{< figure src="IMG_2254.jpeg" caption="Riveting front spars together">}}
-{{< figure src="IMG_2256.jpeg" caption="Riveting front spars together">}}
+{{< figure src="IMG_2254.jpeg" caption="Riveting front spars">}}
+{{< figure src="IMG_2256.jpeg" caption="Riveting front spars">}}
 
-The two rivets joining the the inboard forward ribs were particular tricky. Unfortunately I didn't properly set the rivets on the left side and need to remove them. Furthermore, when I removed them, I realized the holes were now slightly oversized. After consulting with Vans support, their recommendation was to use Cherrymax oversize universal head rivets in place of the solid rivets. I picked these up from Aircraft Spruce. I cleaned up the holes to the proper diameter for the Cherrymax oversize rivets and was able to set them without further issue.
+The two rivets joining the the inboard forward ribs were particular tricky. Unfortunately I didn't properly set the rivets on the left side and need to remove them. Furthermore, when I removed them, I realized the holes were now slightly oversized. After consulting with Vans support, their recommendation was to use Cherrymax oversize universal head rivets in place of the solid rivets. I picked these up from [Aircraft Spruce](https://www.aircraftspruce.com/catalog/hapages/cherrymax4.php?clickkey=295853). I cleaned up the holes to the proper diameter for the Cherrymax oversize rivets and was able to set them without further issue.
 
-{{< figure src="IMG_2386.jpeg" caption="Oversize Cherrymax rivets set to fix my mistake on two nose rib rivets on left side of picture">}}
+{{< figure src="IMG_2386.jpeg" caption="Oversize Cherrymax rivets set to fix my mistake on two nose rib rivets on left side of photo">}}
 
 Finally, it is time to rivet the skins onto the horizontal stabilizer structure. 
 
@@ -61,8 +61,7 @@ The skin was clamped into place and I proceed to rivet the rest of the skin to t
 {{< figure src="IMG_2346.jpeg" caption="Top of left skin riveted">}}
 {{< figure src="IMG_2347.jpeg" caption="Close up of skin rivets sitting flush inside skin dimples">}}
 
-The skin was also riveted on the bottom side, and the right skin was riveted too.
-
+The rest of the skin was also riveted.
 
 {{< figure src="IMG_2384.jpeg" caption="Me riveting the skin">}}
 
