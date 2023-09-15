@@ -11,9 +11,9 @@ tags:
   - stabilizer
 ---
 
-{{< figure src="IMG_2380.jpeg" caption="Vertical stabilizer drawing taped to wall">}}
-
 I started by building the vertical stabilizer. This is supposedly the most simple assembly of the kit.
+
+{{< figure src="IMG_2380.jpeg" caption="Vertical stabilizer drawing taped to wall">}}
 
 After flattening the spar reinforcement which comes in the kit with a curve from the coil of material it is manufactured from, I assembled the skeleton.
 

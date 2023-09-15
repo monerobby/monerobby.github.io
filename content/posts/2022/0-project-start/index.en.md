@@ -13,9 +13,9 @@ tags:
   - empennage
 ---
 
-{{< figure src="rv7a.jpg" caption="A flying example of the RV-7A kit">}}
-
 I've started building a [Vans RV-7A](https://www.vansaircraft.com/rv-7/) homebuilt aircraft. I ordered the empennage kit in May 2022. The factory estimated delivery in approximately 11 months. A long time to wait, but I still needed to setup a workshop, buy lots of tools, and learn the process of aircraft building. However, the kit arrived at the end of June, after just 2 months.
+
+{{< figure src="rv7a.jpg" caption="A flying example of the RV-7A kit">}}
 
 {{< figure src="IMG_4103.jpeg" caption="Empennage kit unboxing. Workshop build in-progress">}} 
 {{< figure src="IMG_5424.jpeg" caption="Parts laid out for inventory in what will become the parts room">}} 
